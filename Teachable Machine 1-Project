@@ -1,0 +1,35 @@
+https://teachablemachine.withgoogle.com/models/VT08YcA1n/
+
+1. Object Recognition for Recycling:
+Create a model that identifies different types of recyclable materials (like plastic, paper, and metal) 
+
+1-bosqich: Jarayonni tushunish: 
+Biz biznes egasiga Plastik, Qog'oz va Shishani ajratib beruvchi dastur tuzmoqchimiz. Bu orqali Plastik, Qog'oz va Shishaning xususiyatlari aniqlandi.
+
+2-bosqich: Analitik yondashuv:
+Descriptive model (tavsiflovchi dastur) tuzuladi. 
+
+3-bosqich: Ma'lumotlarga qo'yilgan talablar:
+faqat Plastik, Qog'oz va Shishani rasmlarini olish kerak. dataset yog'ish kerak.
+
+4-bosqich: Ma'umotlarni yig'ish:
+Simple Mass Downloader tomonidan tortib olindi va yig'ildi rasmlar. 
+
+5-bosiqch: Ma'lumotlarni tahlil qilish:
+Tahlil qilindi
+
+6-bosiqch: Ma'lumotlarni tarrorlash:
+Data Cleaning va Feature Engineering orqali keraksiz .jpeg fayllar o'chirildi.
+
+7-bosqich: Modellash:
+Dastur yaratildi AI orqali. 
+
+8-bosqich: Modelni baholash:
+Baholandi. Yaxshi natijaga erishildi. Lekin Shisha idishni yaxshi taniy olmadi. ko'rsatkich 60%.
+
+9-bosqich: Loyihani ishga tushirish:
+Ishga tushdi.
+
+10-bosqich: Fikr-mulohaza tahlili.
+Kutib qolamiz!
+https://t.me/abdullah_the_analyst
